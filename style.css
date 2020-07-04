@@ -1,0 +1,151 @@
+
+
+
+.half-width{
+    width: 500px;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.color-highlight{
+    color: #e93d7c;
+}
+.half-width img{
+    width: 100%;
+}
+/* .container{
+    margin-top: 20px;
+    margin-bottom: 10px;
+} */
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    margin: 15px;
+}
+.marginOne{
+    margin-top: 60px;
+    margin-right: 100px;
+}
+.btn-link1{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #e94767, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+h1{
+    font-size: 50px;
+    font-weight: 400;
+}
+
+/* second part */
+
+.body-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    margin: 15px;
+  
+}
+.container{
+    width: 100%;
+    height: auto;
+    height: 500px;
+    margin-top: 2%;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+.half-widthTow{
+    width: 500px;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.img-responsiv{
+    width: 500px;
+    height: 500px;
+}
+.btn-link2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #e94767, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.content-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+	height: 600px;
+    margin: 15px;
+}
+.container{
+    width: 100%;
+    height: auto;
+    height: 500px;
+    margin-top: 2%;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+.img-gallery{
+    margin-left: 50px;
+}
+.gallery{
+    float: left;
+    margin-left: 10px;
+}
+.gallery img{
+    width: 450px;
+    margin: 5px;
+}
+
+.footer-area{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    margin: 15px;
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    height: 500px;
+    margin-top: 2%;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+.box{
+    width:700px;
+    text-align: center; 
+    height: 100px;
+}
+.box-1{
+    background-image: linear-gradient(45deg, #EC4E87, #e93d7c);
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: ghostwhite;
+    margin-top: 10px;
+}
+
+.copyright{
+    text-align: center;
+    font-weight: 700;
+    margin-top: 5%;
+    margin: 15px;
+}
+
+
+
+
+
+
+
